@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xrpl-onboarding/static/css/main.8a685450.css",
-    "main.js": "/xrpl-onboarding/static/js/main.c63c125b.js",
+    "main.js": "/xrpl-onboarding/static/js/main.c90f2398.js",
     "static/js/453.8c19fcf4.chunk.js": "/xrpl-onboarding/static/js/453.8c19fcf4.chunk.js",
     "index.html": "/xrpl-onboarding/index.html",
     "main.8a685450.css.map": "/xrpl-onboarding/static/css/main.8a685450.css.map",
-    "main.c63c125b.js.map": "/xrpl-onboarding/static/js/main.c63c125b.js.map",
+    "main.c90f2398.js.map": "/xrpl-onboarding/static/js/main.c90f2398.js.map",
     "453.8c19fcf4.chunk.js.map": "/xrpl-onboarding/static/js/453.8c19fcf4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a685450.css",
-    "static/js/main.c63c125b.js"
+    "static/js/main.c90f2398.js"
   ]
 }
